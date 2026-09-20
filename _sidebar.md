@@ -1,2 +1,2 @@
-- [Portal](Portal)
+- [Portal](portal)
 - [FMHY](README)
